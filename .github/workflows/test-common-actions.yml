@@ -26,3 +26,4 @@ jobs:
       app-name: deckcraft
       require-craft-fonts: false
       craft-fonts-ref: 43913056ce82a3fdad0ef69f6b88d1dc922a8104
+      per-case-trace: true
